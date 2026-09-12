@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/piyush-kaushik24/interactive-rating-component)
-- Live Site URL: [Product list with cart](<>)
+- Live Site URL: [Interactive rating component](https://interactive-rating-component-one-mauve.vercel.app/)
 
 ## My process
 
